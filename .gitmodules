@@ -1,0 +1,3 @@
+[submodule "lib/dxf-parser"]
+	path = lib/dxf-parser
+	url = https://github.com/gdsestimating/dxf-parser.git
